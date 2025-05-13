@@ -22,9 +22,9 @@ public class Semana4 {
                 case 1 -> metodos.leerMatriz();
                 case 2 -> metodos.presentarMatriz();
                 case 3 -> metodos.transponer();
-                case 4 -> metodos.ejemplo();
+                case 4 -> metodos.transpone();
+                case 5 -> metodos.multiplica();
                 /*
-                case 5 -> metodos.insOrder();
                 case 6 -> metodos.eliminarElm();
                 case 7 -> metodos.burbuja();
                 case 8 -> metodos.binaria();**/
